@@ -1,8 +1,8 @@
 {
-  "Title": "JiggleBones",
+  "Title": "Dsp Components",
   "Type": "library",
   "Org": "facepunch",
-  "Ident": "jigglebones",
+  "Ident": "dspcomponents",
   "Tags": null,
   "Schema": 1,
   "Resources": null,
